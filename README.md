@@ -1,4 +1,6 @@
 # excell-read-import-to-sql-and-import-to-excel
+![Örnek Ekran Görüntüsü](example.PNG)
+
  
 # Excel Veri Aktarım Projesi
 
